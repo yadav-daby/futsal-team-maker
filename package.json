@@ -1,0 +1,27 @@
+{
+  "name": "futsal-team-maker",
+  "version": "1.0.0",
+  "description": "A new futsal line up system built in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadav-daby/futsal-team-maker.git"
+  },
+  "keywords": [
+    "futsal",
+    "team",
+    "maker"
+  ],
+  "author": "Yadav Daby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadav-daby/futsal-team-maker/issues"
+  },
+  "homepage": "https://github.com/yadav-daby/futsal-team-maker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
